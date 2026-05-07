@@ -1,7 +1,7 @@
 #profile-title: 𝐀𝐗𝐑𝐈𝐎𝐍𝐋𝐀𝐁𝐒
 #profile-update-interval: 1
 #support-url: https://t.me/+3A6i9WwfsfxmOTky
-#profile-web-page-url: https://github.com/AXRIONLABS/VPN/blob/main/VPN-%40AXRION_LABS.txt
+#profile-web-page-url: https://github.com/AXRIONLABS/VPN
 
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
