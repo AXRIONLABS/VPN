@@ -9,3 +9,4 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @AXRION_LABS
 
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&security=tls&encryption=none&host=cdn.lovecrafty.link&fp=chrome&type=ws&sni=cdn.tracker.yandex.net#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%20-%20Lexa%20Vercel%20100
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ibm.com&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&packetEncoding=xudp#051🇳🇱
