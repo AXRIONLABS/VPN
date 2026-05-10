@@ -74,7 +74,7 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@13.216.170.138:443?encryption=none&
 
 
 #🇷🇸 
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
 
 #🇮🇱
@@ -88,11 +88,7 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?encryption=none&f
 
 
 #🇯🇵
-trojan://162534@156.246.94.155:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=cchh2.pages.dev&type=ws#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-
-vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@103.134.35.107:22335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&security=reality&sid=a2346cd0&sni=www.yahoo.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?encryption=none&security=none&type=tcp#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
 
