@@ -39,29 +39,8 @@ vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&ho
 
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?path=/free/1.226.227.169:50001&security=tls&type=ws&host=nuclear.us.kg&sni=nuclear.us.kg#🇸🇪TG: @AXRION_LABS
 
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#378.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#387.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:2083?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#396.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#397.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://b818576e-951a-4a9c-879a-d32611b977ad@104.19.49.83:2087?encryption=none&host=cocobaby.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=cocobaby.pages.dev&type=ws#477.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#408.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:443?encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#410.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#447.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#464.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@www.vidboxco.ir:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.31%3A744...&security=tls&sni=2026.hhhhh.eu.org&type=ws#583.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@185.128.106.14:51820?encryption=none&host=edt2-lgy.pages.dev&path=%2F&security=tls&sni=edt2-lgy.pages.dev&type=ws#588.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-trojan://bpb-trojan@wing2452.nyc.mn:443?ed=2560&eh=Sec-WebSocket-Protocol&host=wing2452.nyc.mn&path=%2Ftr&type=ws#686.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#687.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#755.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#760.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#763.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip1.kaixincloud.top:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#767.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.185.26:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#828.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?encryption=none&host=cIAllO-EGB.pAGES.dev&path=%2F%25252F&security=tls&type=ws#795.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2053?encryption=none&host=Ciallo-eGB.PageS.dev&path=%2F%25252F&security=tls&type=ws#851.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?encryption=none&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F&security=tls&sni=azadnet-1ml.pages.dev&type=ws#870.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://25284107-7424-40a5-8396-cdd0623f4f05@cloudflare-ech.com:443?encryption=none&host=hscraft.top&path=%2F%3Fip%3DProxyIP.CMLiussss.net&security=tls&sni=hscraft.top&type=ws#895.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#928.%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.26:2083?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#%20%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
+
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@se.keepsecured.net:8443?encryption=none&fp=chrome&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&security=reality&serviceName=buysec.ru&sid=10f786a2491b2cd5&sni=cdn.kwork.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20TG:%20@AXRION_LABS
 
 #🇳🇱
@@ -70,38 +49,32 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=/stream/updat
 
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&security=tls&sni=cdn.tracker.yandex.net&type=ws#TG:%20@AXRION_LABS%20🇳🇱
 
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&security=tls&sni=cdn.tracker.yandex.net&type=ws#390.%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
-vless://bafacd98-136a-4530-838d-4e5c51838dac@20.16.105.244:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fhot%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#472.%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
-ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=%3AOTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@vpn.tgflovv.ru:30453#725.%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
-vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&security=reality&sid=0199436dd359351b&sni=apple.com&type=tcp#1005.%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&security=tls&sni=cdn.tracker.yandex.net&type=ws#%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
+vless://bafacd98-136a-4530-838d-4e5c51838dac@20.16.105.244:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fhot%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
+
+vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&security=reality&sid=0199436dd359351b&sni=apple.com&type=tcp#%20%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
+
 vless://c7cb3bae-8591-40dd-b18c-20919ab6389d@91.84.119.187:443?encryption=none&fp=chrome&pbk=XoF4tf2G6jbwfd7t4aR8HpRXS3eYJRsGb0RAzPHLwGA&security=reality&sid=18b9&sni=yahoo.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TG:%20@AXRION_LABS
 
 
 #🇺🇸
-vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&type=xhttp#2.%20🇺🇸%20TG: @AXRION_LABS
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&type=xhttp#%20🇺🇸%20TG: @AXRION_LABS
 
-vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&security=reality&sid=87000000&sni=vk.com&type=xhttp#6.%20🇺🇸%20TG: @AXRION_LABS
+vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&security=reality&sid=87000000&sni=vk.com&type=xhttp#%20🇺🇸%20TG: @AXRION_LABS
 
+vless://5a29d804-c01b-4007-a7c6-5e6fca2f3ea9@46.149.71.230:443?encryption=none&fp=chrome&host=ads.x5.ru&mode=auto&path=%2Fapi%2Fv3%2Ff29479507adb&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&security=reality&sid=2da46294d6a521B2&sni=ads.x5.ru&type=xhttp#%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
-vless://5a29d804-c01b-4007-a7c6-5e6fca2f3ea9@46.149.71.230:443?encryption=none&fp=chrome&host=ads.x5.ru&mode=auto&path=%2Fapi%2Fv3%2Ff29479507adb&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&security=reality&sid=2da46294d6a521B2&sni=ads.x5.ru&type=xhttp#1.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&type=xhttp#%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
-vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&type=xhttp#2.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://e05bdca8-3f95-4e7f-8f9a-d124945823eb@video.filesdownloader.ru:8080?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=ty2CY09soiv_VQ1Ym3E-LZO_xMxuJ0LwyXE-SW067jk&security=reality&sid=09b21485a3&sni=vk.com&type=xhttp#%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
-vless://e05bdca8-3f95-4e7f-8f9a-d124945823eb@video.filesdownloader.ru:8080?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=ty2CY09soiv_VQ1Ym3E-LZO_xMxuJ0LwyXE-SW067jk&security=reality&sid=09b21485a3&sni=vk.com&type=xhttp#8.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://bafacd98-136a-4530-838d-4e5c51838dac@129.159.119.161:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fzh-cn%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#17.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.118.10:8388#405.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#455.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-vless://bafacd98-136a-4530-838d-4e5c51838dac@129.159.119.161:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fzh-cn%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#556.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?allowInsecure=1#551.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://bafacd98-136a-4530-838d-4e5c51838dac@13.216.170.138:443?encryption=none&host=juzi8186.qea.ccwu.cc&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
-vless://bafacd98-136a-4530-838d-4e5c51838dac@13.216.170.138:443?encryption=none&host=juzi8186.qea.ccwu.cc&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#962.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-
-vless://00000000-0000-4000-8000-000000000000@192.204.110.80:40133?encryption=none&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws#1054.%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWnBkbzc2RjExRlNVUldES214UXdB@130.51.22.40:2096#0554%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
 #🇷🇸 
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#2570%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20TG:%20@AXRION_LABS
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
 
 #🇮🇱
@@ -109,22 +82,20 @@ vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?security=reality
 
 
 #🇵🇱
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-de-2.firstvideocdn.ru&type=tcp#53.%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#776.%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
-trojan://humanity@www.creationlong.org:443?host=www.creationlong.org&path=%2Fassignment&type=ws#694.%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
-trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#900.%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
-trojan://humanity@104.19.229.21:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#935.%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
+vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-de-2.firstvideocdn.ru&type=tcp#%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
+
 
 #🇯🇵
-trojan://162534@156.246.94.155:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=cchh2.pages.dev&type=ws#736.%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#774.%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-trojan://162534@158.101.132.216:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=cchh2.pages.dev&type=ws#803.%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#833.%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@103.134.35.107:22335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&security=reality&sid=a2346cd0&sni=www.yahoo.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?encryption=none&security=none&type=tcp#1033.%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
+trojan://162534@156.246.94.155:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=cchh2.pages.dev&type=ws#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
 
-#🇱🇻
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.79.121:443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#2077%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20TG:%20@AXRION_LABS
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
+
+vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@103.134.35.107:22335?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&security=reality&sid=a2346cd0&sni=www.yahoo.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
+
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?encryption=none&security=none&type=tcp#%20%F0%9F%87%AF%F0%9F%87%B5%20TG:%20@AXRION_LABS
+
 
 
 
