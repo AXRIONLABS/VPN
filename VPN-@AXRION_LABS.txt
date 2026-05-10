@@ -31,3 +31,5 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=/stream/updat
 
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@94.156.155.75:64003?encryption=none&security=reality&sni=download.docker.com&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&sid=fbf3edeea8eabbdc&type=grpc&authority=&serviceName=xraygrpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20TG: @AXRION_LABS
 
+#🇮🇱
+vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?security=reality&encryption=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yahoo.com&sid=08bf#%F0%9F%87%AE%F0%9F%87%B1TG: @AXRION_LABS
