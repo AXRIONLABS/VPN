@@ -19,6 +19,9 @@ vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&ho
 
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?path=/free/1.226.227.169:50001&security=tls&type=ws&host=nuclear.us.kg&sni=nuclear.us.kg#🇸🇪TG: @AXRION_LABS
 
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=chrome&sni=s28233.cdn.ngenix.net#🇸🇪 TG: @AXRION_LABS
+
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#🇸🇪 TG: @AXRION_LABS
 
 #🇳🇱
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&security=tls&encryption=none&host=cdn.lovecrafty.link&fp=chrome&type=ws&sni=cdn.tracker.yandex.net#🇳🇱TG: @AXRION_LABS
@@ -31,6 +34,8 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&ho
 
 
 #🇺🇸
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.238.32:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521b2&flow=xtls-rprx-vision#🇺🇸 TG: @AXRION_LABS
+
 vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&type=xhttp#%20🇺🇸%20TG: @AXRION_LABS
 
 vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&security=reality&sid=87000000&sni=vk.com&type=xhttp#%20🇺🇸%20TG: @AXRION_LABS
@@ -44,7 +49,12 @@ vless://e05bdca8-3f95-4e7f-8f9a-d124945823eb@video.filesdownloader.ru:8080?encry
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20TG:%20@AXRION_LABS
 
 
-#🇮🇱
+#🇩🇪
+vless://d57dfae6-eb18-45fd-bf01-c9dce8989c9c@46.182.24.52:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=max.ru&pbk=NEb4teZd-O_o38QHuCp7M8mSda48yU6BbYev-HJHpXQ&sid=3d&spx=%2F#🇩🇪 TG: @AXRION_LABS
+
+vless://d57dfae6-eb18-45fd-bf01-c9dce8989c9c@46.182.24.52:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=music.yandex.ru&pbk=NEb4teZd-O_o38QHuCp7M8mSda48yU6BbYev-HJHpXQ&sid=a2ece9f4a5&spx=%2F#🇩🇪 TG: @AXRION_LABS
+
+vless://d57dfae6-eb18-45fd-bf01-c9dce8989c9c@46.182.24.52:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=st.vk.com&pbk=NEb4teZd-O_o38QHuCp7M8mSda48yU6BbYev-HJHpXQ&sid=a2ece9f4a5&spx=%2F#🇩🇪 TG: @AXRION_LABS
 
 
 
@@ -52,6 +62,8 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&fl
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.47:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-de-2.firstvideocdn.ru&type=tcp#%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=max.ru&type=tcp#%20%F0%9F%87%B5%F0%9F%87%B1%20TG:%20@AXRION_LABS
+
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.29.131:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=de.active-engine.ru&flow=xtls-rprx-vision#🇵🇱 TG: @AXRION_LABS
 
 
 #🇦🇪
