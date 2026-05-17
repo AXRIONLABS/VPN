@@ -12,7 +12,6 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0.undef.network:51287#TG:%20@AXRION_LABS%20🇷🇺
 
-vless://625177f8-62fe-000b-a161-f65a19ed3e48@nl02.goodmaximum.com:443?encryption=none&security=reality&sni=cloud.770060077.xyz&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&type=grpc&serviceName=QToNrKDvQT5AfnFM&mode=gun#%F0%9F%87%B3%F0%9F%87%B1@𝐀𝐗𝐑𝐈𝐎𝐍𝐋𝐀𝐁𝐒
 
 #🇸🇪
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#TG:%20@AXRION_LABS%20🇸🇪
@@ -26,7 +25,6 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&ho
 
 vless://625177f8-62fe-000a-a161-f65a19ed3e48@nl01.goodmaximum.com:443?encryption=none&security=reality&sni=cloud.770060077.xyz&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704&type=tcp&flow=#%F0%9F%87%B3%F0%9F%87%B1@𝐀𝐗𝐑𝐈𝐎𝐍𝐋𝐀𝐁𝐒
 
-vless://625177f8-62fe-001e-a161-f65a19ed3e48@a.ru.maviks.ru:443?encryption=none&security=reality&sni=ru-cloud.221131513.xyz&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704&type=tcp&flow=#%F0%9F%87%B7%F0%9F%87%BA@𝐀𝐗𝐑𝐈𝐎𝐍𝐋𝐀𝐁𝐒
 
 
 #🇺🇸
