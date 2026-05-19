@@ -17,7 +17,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?encryption=none&host=daluan.eu.org&path=%2F&security=tls&sni=daluan.eu.org&type=ws#TG:%20@AXRION_LABS%20🇸🇪
 
 #🇳🇱
-vless://0ab836f2-6a02-49be-af16-dad5d0ee909e@91.84.125.188:443?encryption=none&fp=chrome&pbk=5_9oY9hDXOdgKtrdNXhPigavp4MnhwG4y1Wf0N3gh24&security=reality&sid=797ef7c4a2&sni=www.tesla.com&spx=%2FtDs09XPND3tDrDK&type=tcp#%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B5-🇳🇱TG: @AXRION_LABS
+vless://0ab836f2-6a02-49be-af16-dad5d0ee909e@91.84.125.188:443?encryption=none&fp=chrome&pbk=5_9oY9hDXOdgKtrdNXhPigavp4MnhwG4y1Wf0N3gh24&security=reality&sid=797ef7c4a2&sni=www.tesla.com&spx=%2FtDs09XPND3tDrDK&type=tcp#🇳🇱TG: @AXRION_LABS
 
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&security=tls&encryption=none&host=cdn.lovecrafty.link&fp=chrome&type=ws&sni=cdn.tracker.yandex.net#🇳🇱TG: @AXRION_LABS
 
